@@ -1,4 +1,4 @@
-# Um MIDI para reproduzir Auido de instrumentos musicais
+# Um MIDI para reproduzir som de instrumentos musicais
 
 ## Descrição
 Este projeto é uma aplicação web interativa onde uma sequência de botões reproduzem sons de um determinado instrumento musical MIDI. A proposta é proporcionar uma experiência simples e intuitiva para tocar diferentes sons diretamente do navegador.
